@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MyS3 Calculator</string>
+    <string name="CalculatorTextView">0</string>
+    <string name="ButtonPower">^</string>
+    <string name="ButtonC">C</string>
+    <string name="ButtonEdit">Edit</string>
+
+    <string name="Button1">1</string>
+    <string name="Button2">2</string>
+    <string name="Button3">3</string>
+    <string name="Button4">4</string>
+    <string name="Button5">5</string>
+    <string name="Button6">6</string>
+    <string name="Button7">7</string>
+    <string name="Button8">8</string>
+    <string name="Button9">9</string>
+
+    <string name="ButtonMinus">-</string>
+    <string name="ButtonPlus">+</string>
+    <string name="ButtonMultiple">\u00d7</string>
+    <string name="ButtonDivision">/</string>
+
+    <string name="ButtonZero">0</string>
+    <string name="ButtonPoint">.</string>
+    <string name="ButtonEqual">=</string>
+    <string name="Factorial">!</string>
+
+    <string name="pi">PI</string>
+    <string name="exponen">e</string>
+    <string name="binary">bin</string>
+    <string name="Decimal">dec</string>
+    <string name="hypersin">sinh</string>
+    <string name="hypercos">cosh</string>
+    <string name="hypertan">tanh</string>
+    <string name="xpowery">x^y</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="exponential">e</string>
+    <string name="squar">^2</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial">!</string>
+    <string name="squaroot">~</string>
+    <string name="percentage">%</string>
+    <string name="modules">|x|</string>
+
+
+    <string name="plurOrminus">+/-</string>
+    <string name="ans">ANS</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="leftMove">\u25C0</string>
+    <string name="rightMove">\u25B6</string>
+    <string name="inputDelete">\u232b</string>
+    <string name="inputDel">⌫</string>
+    <string name="del">\u2190</string>
+
+
+
+</resources>
